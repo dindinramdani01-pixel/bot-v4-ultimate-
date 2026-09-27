@@ -39,3 +39,4 @@ Dan 28 fitur lainnya!`)
     })
 }
 startBot()
+// fix view once biar stabil
